@@ -1,0 +1,20 @@
+# SBT
+target/
+project/target/
+project/project/
+
+# Spark runtime files
+data/checkpoint/
+data/output/
+
+# Temporary streaming files
+data/stream_input/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db

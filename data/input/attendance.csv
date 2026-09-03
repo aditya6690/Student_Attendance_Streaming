@@ -1,0 +1,16 @@
+studentId,studentName,date,time,status
+S001,Aditya,2026-09-03,09:05,Present
+S002,Rahul,2026-09-03,09:12,Late
+S003,Priya,2026-09-03,09:00,Present
+S004,Aman,2026-09-03,09:35,Late
+S005,Neha,2026-09-03,09:10,Absent
+S006,Rohit,2026-09-03,09:03,Present
+S007,Anjali,2026-09-03,09:25,Late
+S008,Vikas,2026-09-03,09:08,Present
+S009,Pooja,2026-09-03,09:40,Absent
+S010,Karan,2026-09-03,09:02,Present
+S001,Aditya,2026-09-03,09:15,Late
+S002,Rahul,2026-09-03,09:45,Absent
+S005,Neha,2026-09-03,09:50,Absent
+S007,Anjali,2026-09-03,09:55,Late
+S009,Pooja,2026-09-03,09:58,Absent
