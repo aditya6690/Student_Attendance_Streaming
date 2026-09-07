@@ -1,0 +1,19 @@
+Expected demonstration totals
+-----------------------------
+Present = 5
+Absent  = 5
+Late    = 5
+Total   = 15
+
+Department summary
+------------------
+ECE = 6 records (3 Present, 2 Absent, 1 Late)
+CSE = 5 records (1 Present, 3 Absent, 1 Late)
+ME  = 2 records (0 Present, 0 Absent, 2 Late)
+EEE = 2 records (1 Present, 0 Absent, 1 Late)
+
+Example repeated-status alerts
+------------------------------
+ALERT: Student S005 has 2 Absent records
+ALERT: Student S007 has 2 Late records
+ALERT: Student S009 has 2 Absent records
